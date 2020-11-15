@@ -2,7 +2,7 @@
 
  
 Description:
-- We have roughly recreated Bishops campus and designed the game
+- We have roughly recreated university campus and designed the game
 - Main Game Object’s that we need to discuss about is :
 Player: (Use Keypad Enter to fire bullets from gun / melle attack with sword)
 o There will be a cop who has 2 weapons (Knife and a Gun)
